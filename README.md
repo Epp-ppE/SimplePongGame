@@ -1,3 +1,5 @@
+# Simple Pong Game
+
 A simple pong game created using Pygame with single player and multiplayer
 
 ![image](https://github.com/Epp-ppE/SimplePongGame/assets/112923717/a8b2468c-94a1-43f6-ab1c-ad9375d94c9c)
@@ -16,4 +18,16 @@ P1(left side)control: W(UP)
 P2(right side)control: ↑(UP)
                        ↓(DOWN)
 
-How to run the program
+## How to run the program
+
+List of Python packages required to run the project. You can install them using:
+
+```bash
+pip install -r requirements.txt
+```
+
+To run:
+
+```bash
+python Pong.py
+```
