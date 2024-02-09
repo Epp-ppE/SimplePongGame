@@ -1,0 +1,2 @@
+score_set = 5
+ball_speed = 15
